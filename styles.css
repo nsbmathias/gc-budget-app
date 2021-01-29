@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: tan;
+}
+
+section {
+    margin:auto; 
+    width: 60%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+input {
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 20px;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+    background-color: lightyellow;
+    color: olivedrab;
+
+}
+
+.red {
+    color: orangered;
+}
+
+.green {
+    color: greenyellow;
+}
